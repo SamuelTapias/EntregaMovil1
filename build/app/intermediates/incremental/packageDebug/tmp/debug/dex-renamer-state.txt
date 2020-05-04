@@ -1,0 +1,4 @@
+#Sun May 03 02:12:57 COT 2020
+base.0=C\:\\Users\\Sam_u\\Desktop\\loginnavigation-SamuelTapias-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
